@@ -1,0 +1,3 @@
+installed.packages("palmerpenguins")
+	penguins
+datos <- data(sleep)
